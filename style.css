@@ -1,0 +1,29 @@
+h2{
+    color: red;
+}
+#color{
+    color: red;
+    font-size: 24px;
+}
+#wrapper{
+    border-bottom: 4px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 8px;
+}
+button{
+    color: aliceblue;
+    background-color: red;
+    border: red solid 2px;
+    padding: 12px;
+    font-size: medium;
+    border-radius: 8px;
+}
+#btndiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    width: 100%;
+}
